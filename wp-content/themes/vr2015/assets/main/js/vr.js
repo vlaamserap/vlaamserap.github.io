@@ -226,6 +226,10 @@ jQuery(document).ready(function($) {
         effect : 'fadeIn'
     });
 
+	var wdgt = '<p><a class="btn btn-default btn-xs btn-block" href="https://github.com/vlaamserap/vlaamserap.github.io/issues" role="button">Meld een probleem</a></p>';
+
+	$( '.widget-vr .panel-body' ).append( wdgt );
+
 });
 
 /* GA */
