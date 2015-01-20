@@ -368,4 +368,10 @@ some cases may stretch layouts. So, we're just hiding it.
     width: 100% !important;
 }
 
+/* temp */
+
+.btn-toolbar {
+    display: none !important;
+}
+
 /* end of file main.css */
