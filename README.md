@@ -6,5 +6,5 @@
 
 In short, please **fork** this repository **only if you're planning to contribute on a regular basis**. As an alternative to submitting a pull request you can:
 
-* open an issue [here](https://github.com/vlaamserap/vlaamserap.github.io/issues) and suggest an improvement
+* open an issue [here](https://github.com/vlaamserap/vlaamserap.github.io/issues) and suggest an edit
 * email us at vlaamserap at gmail dot com
