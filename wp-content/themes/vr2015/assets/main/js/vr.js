@@ -228,7 +228,7 @@ jQuery(document).ready(function($) {
 
 	var wdgt = '<div class="list-group-item"><p><a class="btn btn-default btn-xs btn-block" href="https://github.com/vlaamserap/vlaamserap.github.io/issues" role="button">Meld een probleem</a></p></div>';
 
-	$( '.widget-vr .panel-body' ).append( wdgt );
+	$( '#secondary .widget-vr .panel-body' ).append( wdgt );
 
 });
 
