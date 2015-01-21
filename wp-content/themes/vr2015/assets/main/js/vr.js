@@ -313,6 +313,10 @@ jQuery(document).ready(function($) {
 	// fitvids
 	$( '.hentry' ).fitVids();
 
+	// nav menu
+	$( '<li><a title="Vlaamse rap uit 2014" href="/2014/">2014</a></li>' ).before( '<li><a title="Vlaamse rap uit 2015" href="/2015/">2015</a></li>' );
+
+	// sidebar
 	var wdgt = '<div class="list-group-item"><p>Deze website is 100% open source. <a href="/open-source/">Meer informatie</a></p></div>';
 
 	$( '#secondary .widget-vr .panel-body' ).append( wdgt );
