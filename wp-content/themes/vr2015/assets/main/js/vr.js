@@ -317,7 +317,7 @@ jQuery(document).ready(function($) {
 	$( '<li><a title="Vlaamse rap uit 2014" href="/2014/">2014</a></li>' ).before( '<li><a title="Vlaamse rap uit 2015" href="/2015/">2015</a></li>' );
 
 	// sidebar
-	var wdgt = '<div class="list-group-item"><p>Deze website is 100% open source. <a href="/open-source/">Meer informatie</a></p></div>';
+	var wdgt = '<div class="list-group-item"><p>Deze website is 100% open source. <a href="/open-source/">Meer informatie</a></p><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Dit werk valt onder een <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Naamsvermelding-NietCommercieel-GeenAfgeleideWerken 4.0 Internationaal-licentie</a>.</p></div>';
 
 	$( '#secondary .widget-vr .panel-body' ).append( wdgt );
 
