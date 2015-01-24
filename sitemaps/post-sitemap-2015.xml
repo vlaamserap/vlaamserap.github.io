@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.vlaamserap.be/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.vlaamserap.be/2015/01-15-release-de-feesters-operoatie-feeste.html</loc>
+		<image:image><image:loc>http://www.vlaamserap.be/wp-content/uploads/2015/release-de-feesters-operoatie-feeste.png</image:loc></image:image>
+	</url>
+	<url>
+		<loc>http://www.vlaamserap.be/2015/01-21-westvlamsche-hiphop-mixtape-2014.html</loc>
+		<image:image><image:loc>http://www.vlaamserap.be/wp-content/uploads/2015/westvlamsche-hiphop-mixtape-2014.jpg</image:loc></image:image>
+	</url>
+	<url>
+		<loc>http://www.vlaamserap.be/2015/01-21-vlaamse-rap-be-finito.html</loc>
+		<image:image><image:loc>http://www.vlaamserap.be/wp-content/uploads/2015/vlaamse-rap-thumb.png</image:loc></image:image>
+	</url>
+	<url>
+		<loc>http://www.vlaamserap.be/2015/01-30-release-finez-momentopnames-ep.html</loc>
+		<image:image><image:loc>http://www.vlaamserap.be/wp-content/uploads/2015/release-2015-fnz-mmon.jpg</image:loc></image:image>
+	</url>
+</urlset>
