@@ -8,3 +8,8 @@ In short, please **fork** this repository **only if you're planning to contribut
 
 * open an issue [here](https://github.com/vlaamserap/vlaamserap.github.io/issues) and suggest an edit
 * email us at vlaamserap at gmail dot com
+
+## License
+
+* All website content is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/), unless indicated otherwise.
+* All files in the `wp-includes` and `wp-content/plugins` folders are [GPL licensed](https://wordpress.org/about/gpl/).
